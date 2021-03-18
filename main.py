@@ -124,7 +124,7 @@ with open("indeed_listing.pkl","wb") as f:
 
 
 
-def parse():
+def parse_phd():
     for jk, row in df_indeed.iterrows():
         url = "https://www.indeed.com/viewjob?jk="+jk
         
