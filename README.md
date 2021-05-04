@@ -7,3 +7,4 @@ It requires NordVPN.
 - Generalize code for all jobs and areas
 - Data structure improvement
 - No VPN version
+- Fix tag search issue
